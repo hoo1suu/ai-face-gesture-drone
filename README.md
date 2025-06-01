@@ -1,3 +1,4 @@
 # ai-face-gesture-drone
 안양시 직업 체험 페스티벌 드론
-[드로니 설명.pdf](https://github.com/user-attachments/files/20540001/default.pdf)
+2024년 5월 30일 안양시 청소년을 위한 직업 체험 페스티벌 축제에서
+코딩체험을 위한 ai 드론 부스 운영할 때 사용한 AI 기반 드론
